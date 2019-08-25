@@ -1,0 +1,3 @@
+[submodule "sdk/nonos-sdk-idf"]
+	path = sdk/nonos-sdk-idf
+	url = https://github.com/jmattsson/nonos-sdk-idf.git
